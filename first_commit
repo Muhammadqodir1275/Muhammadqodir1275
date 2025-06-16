@@ -1,1 +1,40 @@
-<p>efew</p>
+# 🛒 Online Shop React
+
+Bu loyiha React.js yordamida yaratilgan onlayn do'kon platformasidir. Foydalanuvchi mahsulotlarni ko‘rishi, qidirishi, filtrdan o‘tkazishi, savatga qo‘shishi va buyurtma berishi mumkin. Loyihada `React Context API` yordamida holat (state) boshqaruvi amalga oshirilgan.
+
+---
+
+## 📸 Ekranlar
+
+- ✅ Bosh sahifa (Navbar, mahsulotlar ro‘yxati)
+- ✅ Mahsulotlar kartasi (rasm, narx, nomi)
+- ✅ Qidiruv va filter funksiyasi
+- ✅ Savat sahifasi
+- ✅ Login / Register sahifalari
+- ✅ Admin Panel (Dashboard)
+- ✅ Grafiklar (Bar, Pie, Line chart)
+
+---
+
+## 🛠 Texnologiyalar
+
+- ⚛️ React.js
+- 📦 Context API (global state)
+- 🌐 React Router DOM
+- 🎨 CSS (har bir komponent uchun alohida fayl)
+- 📊 Chart.js / Recharts
+- 🔐 Autentifikatsiya (Login / Register)
+- 🧠 LocalStorage orqali ma’lumotlar saqlash
+- 🛠 Git / GitHub
+
+---
+
+## 🚀 O‘rnatish
+
+Quyidagi bosqichlarni terminalda bajarish orqali loyihani ishga tushiring:
+
+```bash
+git clone https://github.com/foydalanuvchi/online-shop-react.git
+cd online-shop-react
+npm install
+npm start
